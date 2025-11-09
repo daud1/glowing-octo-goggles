@@ -1,0 +1,4 @@
+*.pyc
+knowledge_base/
+.venv/
+.env
